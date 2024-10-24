@@ -1,10 +1,10 @@
-package com.ralyway.despliegue;
+package com.despliegue.railway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DespliegueApplicationTests {
+class RailwayApplicationTests {
 
 	@Test
 	void contextLoads() {

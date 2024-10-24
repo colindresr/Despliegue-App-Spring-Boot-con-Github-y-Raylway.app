@@ -1,13 +1,13 @@
-package com.ralyway.despliegue;
+package com.despliegue.railway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DespliegueApplication {
+public class RailwayApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DespliegueApplication.class, args);
+		SpringApplication.run(RailwayApplication.class, args);
 	}
 
 }
